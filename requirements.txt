@@ -1,0 +1,6 @@
+# Versions used by the working China-region setup. Python 3.12+ required.
+garminconnect==0.3.17
+mcp==1.30.0
+requests==2.33.0
+python-dotenv==1.2.2
+fitparse==1.2.0

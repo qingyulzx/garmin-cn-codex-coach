@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "timezone": "Asia/Shanghai",
+  "goals": [],
+  "usual_weekly_schedule": {},
+  "recent_race_results": [],
+  "data_preferences": {
+    "exclude_elevation": false,
+    "prefer_measured_track_distance": true,
+    "intensity_distribution_basis": "distance"
+  },
+  "injury_or_symptom_notes": [],
+  "notes": "模板不含真实运动员信息。按本人意愿填写，保存在应用数据目录而非仓库。"
+}

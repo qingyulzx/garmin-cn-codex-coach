@@ -1,0 +1,29 @@
+{
+  "repository": "https://github.com/Taxuspt/garmin_mcp",
+  "commit": "cfc5d799ab0f165e837f1188a1d093c65838aaf7",
+  "modifications_to_vendored_python": false,
+  "hash_normalization": "UTF-8 with LF line endings",
+  "sha256": {
+    "__init__.py": "6bbc3103390a2e8d0c39e916645a61db22beee4af2dfb6ba7f6a0b4043ab382f",
+    "__main__.py": "85958b88e60037a976e0ce132458d32f9414c3f8b9a71798f71f142e5eba893b",
+    "activity_analysis.py": "66ed43062b51b3804263045b05e0068380a76a60e77115bd3ca3ab00b85ae741",
+    "activity_management.py": "9a07f632b1214e6e82e27ae6e6a8eae37e34d6f4ffb9ed3116f8868b6fc01f67",
+    "auth_cli.py": "46f5296c1c0f336e4a6700ce611878fb1f55474a86978a6de829cdf5ccad1d43",
+    "calendar_events.py": "d2238cce326623b40596ae46786d9259ef922a86434030096a0c48f413e1b92f",
+    "challenges.py": "0d5ae6ba87cfba147c31f755bd65b86ff7ca9ba092c588660a2d9b33d746ba16",
+    "courses.py": "dbd492e22f42392ef2a77bed5f2005c9cac2fe454e84b336a42b271485d4ac31",
+    "data_management.py": "d5fdfcd362c6c0c1f8aef651874a4ba80316b65f19e3334aa9e89c84b12487fc",
+    "devices.py": "6250e7cfa5c45d7609efb4a27d564d5103f7013f9d0b0a3dc10e2fddd245a551",
+    "gear_management.py": "4105d5b922b994bb4265b4ebc5d1e6f86aade61080978c056334c97af2a843ad",
+    "health_wellness.py": "1ff8602677ea18714b208bdef614bee95806894ee87b03f756e74d907bf07ce5",
+    "nutrition.py": "a82751524a904ad9ea509f0157fa9cd426ab4f983c85a6b9de6a2c20b9dc2702",
+    "token_utils.py": "c45e63dd648dae7bb08ce765665e51e40035e692fc1a6d0e06449ad2adce7a13",
+    "training.py": "9935560c8395cea6befb86073f30131fd561e78038f7e77d857de424da88e341",
+    "user_profile.py": "61d8211d94cd82093fbcaf62a90342f699a60fcc288cdde34579c9dc32582c97",
+    "weight_management.py": "684f1f612e9704e1fe9435cadedfd469006f0eef04ea794cce07b22f4b5e69e8",
+    "womens_health.py": "22ab12d7bb1d7b3753715699ba7dea415b651a31f2464e66455eb45a9c774ca2",
+    "workout_builders.py": "6fad8386d6ba8bd4391d3d4230bd21802eabcc60b993bf5fcd7d81a19ad99d05",
+    "workout_templates.py": "57918a0689d2d33e33bfed05ed1fd470a8ec984b8ca1b5c73d31b737c83aa4f0",
+    "workouts.py": "ed9c764eef5eaa95674cdd9abaa41aec259b243cea728da66d78e0b0bf279f20"
+  }
+}
